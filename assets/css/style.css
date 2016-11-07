@@ -1,0 +1,67 @@
+
+.jumbotron
+
+{
+	color: teal;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+
+	background-color: white;
+	font-style: arial;
+}
+
+.table,th
+
+{	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+}
+
+#addSchedule 
+{
+	height:45px;
+	line-height: 30px;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	background-color: teal;
+	color: white;
+	padding: 5px;
+	text-indent: 15px;
+
+}
+
+label,#clickButton
+{
+	font-family: arial;
+	font-size: 20px;
+	
+}
+
+th 
+{
+
+	font-size: 28px;
+	font-weight: bold;
+	background-color: teal;
+	color: white;
+}
+
+.highlight 
+
+{
+
+	font-size: 20px;
+	font-weight: bold;
+	padding: 15px;
+}
+
+input, #clickButton
+{
+
+	margin-left: 15px;
+}
